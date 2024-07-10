@@ -1,6 +1,10 @@
 # Employee Time Management System
 
-This project is a comprehensive employee time management system that uses NFC cards for time logging. It consists of a React frontend, a Node.js backend, and a Python script for NFC card reading.
+![Report dashboard]()./tracker_report.png)
+
+This project demostrates a case of an employee time management system that uses NFC cards for time logging. It consists of a React frontend, a Node.js backend, and a Python script for NFC card reading.
+
+As it is a personal project, it's not complete and should extensively be revised in case it's intended to be used in real production.
 
 ## Project Structure
 
